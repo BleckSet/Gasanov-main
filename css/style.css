@@ -760,8 +760,7 @@ html {
   .inst{
      z-index: 100;
     width: 80px;
-    bottom: auto;
-    top: 550px;
+    bottom: 165px;
 }
   
   .inst img{
